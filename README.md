@@ -1,4 +1,4 @@
-# Weather API
+☁ # Weather API
 
 The Weather API is a RESTful web service that provides weather information for specific locations. It allows developers to retrieve current weather conditions, forecasts, and other related data for integration into their applications.
 
@@ -46,6 +46,7 @@ API_KEY=YOUR_OPENWEATHER_API_KEY
 ## 💻 Usage
 
 For your convenience, I have hosted this website on **Render** for free. Since it is a free service, there might be some delay while loading the website, please be patient 🙂
+
 You can access the website from here: https://weather-api-z0di.onrender.com
 
 ## 🤝 Contribution
