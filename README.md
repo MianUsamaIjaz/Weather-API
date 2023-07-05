@@ -2,6 +2,10 @@
 
 The Weather API is a RESTful web service that provides weather information for specific locations. It allows developers to retrieve current weather conditions, forecasts, and other related data for integration into their applications.
 
+## 💻 Usage
+
+For your convenience, I have hosted this website on **Render** for free. Since it is a free service, there might be some delay while loading the website, please be patient 🙂
+
 You can access the website from here: https://weather-api-z0di.onrender.com
 
 ## 🌟 Features
@@ -44,12 +48,6 @@ API_KEY=YOUR_OPENWEATHER_API_KEY
 5. Start the Server: node app.js
 
 6. The API will be accessible at http://localhost:3000 (or any other specified port).
-
-## 💻 Usage
-
-For your convenience, I have hosted this website on **Render** for free. Since it is a free service, there might be some delay while loading the website, please be patient 🙂
-
-You can access the website from here: https://weather-api-z0di.onrender.com
 
 ## 🤝 Contribution
 Contributions to the Weather API project are welcome. If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository.
