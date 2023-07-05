@@ -1,4 +1,4 @@
-☁ # Weather API
+# ☁️ Weather API
 
 The Weather API is a RESTful web service that provides weather information for specific locations. It allows developers to retrieve current weather conditions, forecasts, and other related data for integration into their applications.
 
