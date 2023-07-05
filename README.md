@@ -2,6 +2,8 @@
 
 The Weather API is a RESTful web service that provides weather information for specific locations. It allows developers to retrieve current weather conditions, forecasts, and other related data for integration into their applications.
 
+You can access the website from here: https://weather-api-z0di.onrender.com
+
 ## 🌟 Features
 
 - **Current Weather**: Get real-time weather information for a specific location, including temperature, humidity, wind speed, and more.
